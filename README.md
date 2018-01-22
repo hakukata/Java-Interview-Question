@@ -1,4 +1,7 @@
 # Java 面试笔记
+
+> 本开源书 forked from [Java 面试笔记](https://github.com/DONGChuan/Java-Interview-Question)，作者为 [DONGChuan](https://github.com/DONGChuan)，欢迎大家 star 原作者的 [repo](https://github.com/DONGChuan/Java-Interview-Question)，以便获得最新更新，谢谢！
+
 我第一次pr
 
 这本书其实是我的一本笔记 (还在整理中). 我是也是刚找到工作. 这本笔记主要记录了我之前面试遇到的问题以及我在网上整理的一些资料 主要是面向 junior 级别的 就是我们这些小菜鸟啦 ~
